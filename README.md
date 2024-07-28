@@ -15,6 +15,7 @@
     - [x] `Github`
     - [x] `HTML`
     - [x] `CSS`
+    - [ ] `Lógica de programação`
     - [ ] `JavaScript`
     - [ ] `npm`
     - [ ] `react`
