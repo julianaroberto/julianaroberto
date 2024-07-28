@@ -20,7 +20,6 @@
     - [ ] `react`
     - [ ] `tailwind`
     - [ ] `Python`
-<br>
 
 ## 🌱 Desafios do Front End Mentor: 
 - [Recipe Page](https://julianaroberto.github.io/recipe-page/)
