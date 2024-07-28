@@ -8,7 +8,7 @@
 
 </div><br>
 
-⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou estudando sobre front-end por diversão, mas pretendo me qualificar em *cybersecurity.*
+⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou aprendendo front-end por diversão, pois pretendo estudar *cybersecurity.*
 <br>
 - 📖 **Estou estudando:**
     - [x] `Git`
