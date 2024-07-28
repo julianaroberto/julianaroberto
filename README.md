@@ -19,7 +19,6 @@
     - [ ] `npm`
     - [ ] `react`
     - [ ] `tailwind`
-    - [ ] `vitest`
     - [ ] `Python`
 <br>
 
