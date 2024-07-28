@@ -11,9 +11,15 @@
 ⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou estudando sobre front-end por achar divertido, mas futuramente quero estudar *cybersecurity.*
 <br>
 - 📖 **Estou estudando:**
+    - [x] `Git`
+    - [x] `Github`
     - [x] `HTML`
     - [x] `CSS`
     - [ ] `JavaScript`
+    - [ ] `npm`
+    - [ ] `react`
+    - [ ] `tailwind`
+    - [ ] `vitest`
     - [ ] `Python`
 <br>
 
