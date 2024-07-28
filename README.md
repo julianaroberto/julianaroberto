@@ -1,6 +1,7 @@
 ## Oiii, eu sou a Juliana 👋
 
 <!--[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaroberto)](https://github.com/julianaroberto/github-readme-stats)-->
+⚡ About: Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou estudando sobre front-end por achar divertido, mas futuramente quero estudar *cybersecurity.*
 
 - 📖 Estou estudando: 
     - [x] `HTML`
@@ -10,8 +11,6 @@
 
 - 🌱 Desafios do Front End Mentor:
     - [Recipe Page](https://julianaroberto.github.io/recipe-page/)
-- 😄 meus pronomes: ela/dela
-- ⚡ Fun fact: Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou estudando sobre front-end por achar divertido, mas futuramente quero estudar *cybersecurity.* 
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
