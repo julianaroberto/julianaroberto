@@ -1,6 +1,8 @@
+<div align="center">
+
 ## Oiii, eu sou a Juliana 👋
     
-
+</div>
 
 <div style="display: block" align="center">
     
