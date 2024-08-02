@@ -42,5 +42,5 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaroberto&layout=compact) 
 
-<!--[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaroberto)](https://github.com/julianaroberto/github-readme-stats)-->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=julianaroberto&label=Profile%20views&color=0e75b6&style=plastic" alt="julianaroberto" /> </p>
 </div>
