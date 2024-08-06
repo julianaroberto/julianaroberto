@@ -27,6 +27,7 @@
 ## 🌱 Desafios do Front End Mentor: 
 - [Recipe Page](https://julianaroberto.github.io/recipe-page/)
 - [Social links profile](https://julianaroberto.github.io/card-links/)
+- [Summary component](https://julianaroberto.github.io/summary/)
 <br>
   
 <div style="display: inline_block" align="center"><br>
