@@ -10,7 +10,7 @@
 
 </div><br>
 
-⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Atualmente estou estudando data science pela Alura, mas também gosto de aprender sobre front-end por diversão e por conta própria! Futuramente, pretendo estudar *cybersecurity.*
+⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Atualmente estou estudando data science pela Alura, mas também gosto de aprender sobre front-end por diversão e por conta própria.
 <br>
 - 📖 **Estou estudando:**
     - [x] `Git`
