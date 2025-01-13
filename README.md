@@ -10,19 +10,20 @@
 
 </div><br>
 
-⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Estou aprendendo front-end por diversão, pois pretendo estudar *cybersecurity.*
+⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Atualmente estou estudando data sicence pela Alura, mas também gosto de aprender sobre front-end por diversão e por conta própria! Futuramente, pretendo estudar *cybersecurity.*
 <br>
 - 📖 **Estou estudando:**
     - [x] `Git`
     - [x] `Github`
     - [x] `HTML`
     - [x] `CSS`
-    - [ ] `Lógica de programação`
+    - [x] `Lógica de programação`
+    - [ ] `Python`
     - [ ] `JavaScript`
     - [ ] `npm`
     - [ ] `react`
     - [ ] `tailwind`
-    - [ ] `Python`
+  
 
 ## 🌱 Desafios do Front End Mentor: 
 - [Recipe Page](https://julianaroberto.github.io/recipe-page/)
