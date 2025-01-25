@@ -46,3 +46,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=julianaroberto&label=Profile%20views&color=0e75b6&style=plastic" alt="julianaroberto" /> </p>
 </div>
+
+<!--<div>
+<a href="https://github.com/julianaroberto">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaroberto&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=julianaroberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div> -->
