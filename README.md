@@ -18,8 +18,8 @@
     - [x] `HTML`
     - [x] `CSS`
     - [x] `Lógica de programação`
+    - [x] `JavaScript`
     - [ ] `Python`
-    - [ ] `JavaScript`
     - [ ] `npm`
     - [ ] `react`
     - [ ] `tailwind`
