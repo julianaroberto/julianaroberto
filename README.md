@@ -20,10 +20,7 @@
     - [x] `Lógica de programação`
     - [x] `JavaScript`
     - [ ] `Python`
-    - [ ] `npm`
-    - [ ] `react`
-    - [ ] `tailwind`
-  
+ 
 
 ## 🌱 Desafios do Front End Mentor: 
 - [Recipe Page](https://julianaroberto.github.io/recipe-page/)
