@@ -22,6 +22,7 @@
     - [ ] `SQL`
     - [ ] `Python`
     - [ ] `R`
+    - [ ] `Tableau`
  
 
 ## 🌱 Desafios do Front End Mentor: 
