@@ -19,8 +19,8 @@
     - [x] `CSS`
     - [x] `Lógica de programação`
     - [x] `JavaScript`
-    - [ ] `Python`
     - [ ] `SQL`
+    - [ ] `Python`
     - [ ] `R`
  
 
