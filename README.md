@@ -10,7 +10,7 @@
 
 </div><br>
 
-⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Atualmente estou estudando data science pela Alura em parceria com a Oracle, e data analysis pela Coursera em parceria com o Google, mas também gosto de aprender sobre front-end por diversão e por conta própria.
+⚡ **About me:** Sou formada em Administração Pública, mas sempre gostei da área de tecnologia. Atualmente estou estudando data science pela Alura em parceria com a Oracle, e data analysis pela Coursera em parceria com o Google.
 <br>
 - 📖 **Estou estudando:**
     - [x] `Git`
