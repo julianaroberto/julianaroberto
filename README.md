@@ -18,9 +18,8 @@
     - [x] `HTML`
     - [x] `CSS`
     - [x] `Lógica de programação`
-    - [x] `JavaScript`
+    - [x] `Python`
     - [ ] `SQL`
-    - [ ] `Python`
     - [ ] `R`
     - [ ] `Tableau`
  
