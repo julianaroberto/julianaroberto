@@ -18,10 +18,10 @@
     - [x] `HTML`
     - [x] `CSS`
     - [x] `Lógica de programação`
-    - [x] `Python`
-    - [ ] `SQL`
-    - [ ] `R`
+    - [x] `SQL`
+    - [x] `R`
     - [ ] `Tableau`
+    - [ ] `Python`
  
 
 ## 🌱 Desafios do Front End Mentor: 
